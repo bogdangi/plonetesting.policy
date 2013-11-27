@@ -29,6 +29,7 @@ setup(name='plonetesting.policy',
       install_requires=[
           'plonetesting.content',
           'collective.googleanalytics',
+          'plonetesting.users',
           'setuptools',
           # -*- Extra requirements: -*-
       ],

@@ -4,5 +4,6 @@
     <dependencies>
         <dependency>profile-collective.googleanalytics:default</dependency>
         <dependency>profile-plonetesting.content:default</dependency>
+        <dependency>profile-plonetesting.users:default</dependency>
     </dependencies>
 </metadata>
